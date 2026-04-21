@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Blue+Team+Operator+%7C+SOC+Analyst;Threat+Hunter+in+Training;Log+Whisperer+%2F+Packet+Sniffer;SIEM+%7C+DFIR+%7C+Network+Forensics;%24+sudo+hunt+--threats+--never-stop)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=r00tRudra&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
