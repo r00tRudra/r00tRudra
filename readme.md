@@ -1,9 +1,3 @@
-<!-- ============================================================
-     RUDRA DATTA — GitHub Profile README
-     Paste this into: github.com/<your-username>/<your-username>/README.md
-     Replace every [YOUR_USERNAME] with your actual GitHub handle.
-     ============================================================ -->
-
 <div align="center">
 
 ```
@@ -26,12 +20,12 @@
 ## `> whoami`
 
 ```yaml
-name        : Rudra Datta
-role        : Blue Team Cybersecurity Analyst (Entry Level)
+name        : Rudra Bhowmick
+role        : Student / Learner
 location    : Kolkata, West Bengal, IN
 focus       : SOC Operations · DFIR · Threat Hunting · SIEM Engineering
 currently   : Building home lab | Chasing certs | Hunting threats
-open_to     : Opportunities in Blue Team / SOC / IR roles
+open_to     : Opportunities in Blue Team / SOC / IR roles / Dev roles
 ```
 
 ---
