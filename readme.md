@@ -92,39 +92,7 @@ open_to     : Opportunities in Blue Team / SOC / IR roles / Dev roles
 
 ---
 
-## `> cat current_ops.txt`
 
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="105">
-      <img src="https://img.shields.io/badge/STUDYING-00ff41?style=flat-square&labelColor=002a0a"/>
-    </td>
-    <td>CompTIA Security+</td>
-    <td align="right"><code>████░░░░░░</code> &nbsp;<b>40%</b></td>
-  </tr>
-  <tr>
-    <td width="105">
-      <img src="https://img.shields.io/badge/PRACTICING-00e5ff?style=flat-square&labelColor=001a11"/>
-    </td>
-    <td>TryHackMe Blue Team Path</td>
-    <td align="right"><code>██████░░░░</code> &nbsp;<b>60%</b></td>
-  </tr>
-  <tr>
-    <td width="105">
-      <img src="https://img.shields.io/badge/BUILDING-fbbf24?style=flat-square&labelColor=1a1500"/>
-    </td>
-    <td>Home Lab &nbsp;<code>Wazuh + Zeek</code></td>
-    <td align="right"><code>█████████░</code> &nbsp;<b>90%</b></td>
-  </tr>
-  <tr>
-    <td width="105">
-      <img src="https://img.shields.io/badge/NEXT_TARGET-ff2244?style=flat-square&labelColor=2a0507"/>
-    </td>
-    <td colspan="2">CompTIA CySA+</td>
-  </tr>
-</table>
 
 <br>
 
